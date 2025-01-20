@@ -52,7 +52,7 @@ function goToDescription(itemId) {
     switch (itemId) {
         case 1001: {
             wantedPage = `
-                <button><a href="https://github.com" target="_blank">=======================================Download=======================================</a></button> <br> <br>
+                <button><a href="blob:https://github.com/232c9e4e-085f-4af6-98b1-8e5eb2fb83c1" target="_blank">=======================================Download=======================================</a></button> <br> <br>
 
                 <h1>Features:<h1>
                 
